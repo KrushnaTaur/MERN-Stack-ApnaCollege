@@ -1,56 +1,67 @@
-# 🚀 MERN Stack Practice (Sigma 6.0 - Apna College)
+<h1 align="center">🚀 MERN Stack Practice — Sigma 6.0 (Apna College)</h1>
 
-This repository contains my **full-stack web development practice** following the **Apna College Sigma 6.0** course.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Next-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Loading-orange?style=for-the-badge" />
+</p>
 
----
-
-## 📘 Completed Module: `01_HTML/`
-I’ve successfully completed the **HTML module**, covering all levels (1–3) including:
-- 🧩 Basic structure, tags, and semantic elements  
-- 🖼️ Images, links, and lists  
-- 📋 Tables and forms  
-- 🎯 Assignments and practice questions  
-
-> ✅ Built a strong foundation in HTML and webpage structure.
-
----
-
-## 🎨 Currently Learning: `02_CSS/`
-Starting the **CSS module** to design and style web pages — focusing on:
-- Colors, backgrounds & borders  
-- Selectors & combinators  
-- Flexbox & Grid layout  
-- Responsive design techniques  
+<p align="center">
+  <b>Practicing full-stack development step-by-step through Apna College Sigma 6.0 🚀</b><br>
+  <sub>Building skills | Creating mini projects | Growing consistently ⚡</sub>
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
-- 💻 Visual Studio Code  
-- 🌐 Git & GitHub  
-- ⚙️ HTML5, CSS3, JavaScript *(upcoming)*  
+## 📁 Completed Modules
+
+### ✔ `01_HTML/`
+``🧩 Structure • 🖼️ Media • 📋 Tables/Forms • 🎯 Assignments``  
+> Solid foundation in semantic HTML & page structure.
+
+### ✔ `02_CSS/`
+``🎨 Styling • 📐 Layouts • 🔥 Flex/Grid • 🎭 Animations • 📱 Responsive UI``  
+> Fully completed + mini projects included.
 
 ---
 
-## 🎯 Learning Goals
-- Strengthen **full-stack (MERN)** development skills step-by-step  
-- Master **front-end & back-end** concepts  
-- Create and **deploy real-world, responsive** web applications  
+## 🚀 Current Learning Path
+
+| Module | Status | Badge |
+|---|---|---|
+| **HTML** | ✔ Completed | ![](https://img.shields.io/badge/HTML-Done-brightgreen) |
+| **CSS** | ✔ Completed | ![](https://img.shields.io/badge/CSS-Done-brightgreen) |
+| **JavaScript** | 🔜 Next Module | ![](https://img.shields.io/badge/JS-Upcoming-blue) |
+| **Node.js | Express.js** | ⏳ Pending | ![](https://img.shields.io/badge/Backend-Later-lightgrey) |
+| **MongoDB** | ⏳ Pending | ![](https://img.shields.io/badge/Database-Upcoming-lightgrey) |
+| **React.js** | ⏳ Pending | ![](https://img.shields.io/badge/Frontend-Later-lightgrey) |
 
 ---
 
-## 📅 Progress Tracker
-| Module | Status | Description |
-|:--------|:--------:|:-------------|
-| 01_HTML | ✅ Completed | HTML basics, forms, and semantic tags |
-| 02_CSS | 🔄 In Progress | Styling and responsive design |
-| 03_JavaScript | ⏳ Upcoming | Logic, DOM, and interactivity |
-...
-...
+## 🛠 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VSCode-1F85DE?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F14E32?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ffcc00?logo=javascript&logoColor=black&style=for-the-badge" />
+</p>
 
 ---
 
-⭐ **Keep checking this repository for continuous updates as I progress through the Sigma 6.0 journey!**
+## 🌱 Goal
+To master MERN-Stack development and build real-world, deployable web applications.
+
+📌 *Next milestone → JavaScript mastery + mini projects*
 
 ---
 
-👨‍💻 *Created & maintained by [Krushna Taur](https://github.com/KrushnaTaur)*
+### 🌟 Star the Repo if You Like It!
+
+<p align="center">
+  <b>🧠 Learning. 📈 Improving. ☕ Coding daily.</b><br>
+  <a href="https://github.com/KrushnaTaur">👨‍💻 Developed by <u>Krushna Taur</u></a>
+</p>
