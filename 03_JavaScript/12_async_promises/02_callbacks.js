@@ -1,0 +1,55 @@
+h1 = document.querySelector("h1");
+
+function changeColor(color, delay, nextColorChange) {
+    setTimeout(() => {
+        h1.style.color = color;
+        if (nextColorChange) nextColorChange();
+    }, delay);
+}
+
+changeColor("red", 1000, () => {
+    changeColor("orange", 1000, () => {
+        changeColor("green", 1000, () => {
+            changeColor("pink", 1000);
+        });
+    });
+});
+
+
+
+function savetoDb(data, success, failure) {
+    let internetSpeed = Math.floor(Math.random() * 10) + 1;
+    if (internetSpeed > 4) {
+        success();
+    } else {
+        failure();
+    }
+}
+
+savetoDb(
+    "apna college",
+    () => {
+        console.log("success: your data was saved");
+        savetoDb(
+            "hello world",
+            () => {
+                console.log("success2: data 2 saved");
+                savetoDb(
+                    "krushna",
+                    () => {
+                        console.log("success3: data saved");
+                    },
+                    () => {
+                        console.log("failure3: weak connection");
+                    }
+                );
+            },
+            () => {
+                console.log("failure2: weak connection");
+            }
+        );
+    },
+    () => {
+        console.log("failure: weak connection. data not saved");
+    }
+);
